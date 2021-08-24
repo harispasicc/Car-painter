@@ -1,0 +1,18 @@
+.contactContainer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+.name {
+  margin: 5px;
+}
+.email {
+  margin: 5px;
+}
+.subject {
+  margin: 5px;
+}
+.message {
+  margin: 5px;
+}
